@@ -159,7 +159,7 @@ _Demonstration . Please refer to the [Link](https://youtu.be/TU-ylUORo4c)_
 <!-- analytics-->
 <h2 id="doc"> 📋: Developer Documentation </h2>
 
-_Developer Documentation. Please refer to the [Link](https://documenter.getpostman.com/view/12221940/UVC2GTyP)_
+<!-- _Developer Documentation. Please refer to the [Link](https://documenter.getpostman.com/view/12221940/UVC2GTyP)_ -->
 
 <p> 
   Developer Documentation
