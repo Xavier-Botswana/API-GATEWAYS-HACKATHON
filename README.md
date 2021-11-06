@@ -27,7 +27,7 @@ Therefore a best in class api gateway will be built to ensure that the security,
     <li><a href="#problem-statement"> ➤ Problem Statement</a></li>
      <li><a href="#research"> ➤ Research</a></li>
     <li><a href="#stack"> ➤ Stack</a></li>
-    <li><a href="#demo"> ➤ Demo (API Creation and Tests)</a></li>
+    <li><a href="#demo"> ➤ Demo (API Architecture) </a></li>
     <li><a href="#doc"> ➤ API/Developer Docummentation</a></li>
     <li><a href="#team"> ➤ Team</a></li>
     
@@ -126,7 +126,7 @@ The stack used to build this project:
 
 
 <!-- analytics-->
-<h2 id="doc"> 📋: Demo  </h2>
+<h2 id="demo"> 📋: Demo  </h2>
 
 _Architecture Demonstration . Please refer to the [Link](https://youtu.be/TU-ylUORo4c)_
 
