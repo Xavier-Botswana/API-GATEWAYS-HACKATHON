@@ -51,6 +51,62 @@ Therefore a best in class api gateway will be built to ensure that the security,
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+<!-- analytics-->
+<h2 id="doc"> 📋: Research Findings</h2>
+
+<!-- _Developer Documentation. Please refer to the [Link](https://documenter.getpostman.com/view/12221940/UVC2GTyP)_ -->
+
+<p> 
+  Findings
+  
+<p align="justify"> 
+Our research process was focused on finding best practices for API gateway implementation and deployment. we did this by doing a deep dive into large multinational corporations, digitized governments as well as dove into literature to discover insights from academics. this led us to exploring the largest use cases for API gateways and the key features we found across most of these organizations included; 
+
+1.	Centralized authentication and authorization across all microservices
+2.	Centralized security and HTTPs access control monitoring
+3.	response caching to minimize total number of API requests
+4.	load balancing across platforms
+5.	centralized troubleshooting and API management
+6.	Service discovery
+7.	API monetization
+
+We then looked at these various use cases but organizations across the world have tested and used and decided to explore how they would be able to solve the problems that the government is facing. therefore, in context of the current status quo the services that the API gateway we’re proposing will perform include; 
+
+1.	Centralized authentication and authorization across all microservices
+2.	Centralized security and HTTPs access control monitoring
+3.	Response caching to minimize total number of API requests
+4.	Load balancing across platforms
+5.	Centralized troubleshooting and API management
+
+This is demonstrated by our demo and as seen below with the video showing the architecture proposed for this purpose. 
+
+Lessons Learned
+
+The key lessons learnt over the period include; 
+
+1.	The implementation of an effective API gateway requires a modular architecture to ensure scalability across services 
+2.	Implementation of a centralized security protocol will ensure minimization of remote risk and with a monitoring panel we can ensure that additional 
+3.	When dealing with an API Gateway you need to think about the API Gateway request/response as separate to the integration request/response. A request to API Gateway gets transformed into an integration request and when responding the integration response gets transformed into an API Gateway response. All requests to Lambdas need to be made using the POST method (regardless of what you’re accepting through API Gateway), so don’t try integrating with your Lambda using GET or PUT. 
+
+</p>
+
+
+ 
+ 
+ <a href="https://docs.google.com/presentation/d/1q1V6qgiDrBObpEXmhjADp2QHiK-3EmuLFjKhTeyLwk0/edit?usp=sharing"> ➤ Design Thinking</a>
+
+
+ 
+</p>
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <!-- PREREQUISITES -->
 <h2 id="stack"> :computer: Stack</h2>
 
