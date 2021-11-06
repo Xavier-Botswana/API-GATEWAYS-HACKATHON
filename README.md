@@ -163,12 +163,12 @@ _Developer Documentation. Please refer to the [Link](https://documenter.getpostm
 <p> 
   Developer Documentation
   
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="API/1.png" alt="smbots" width="70%" height="70%">
-</p>
-<p align="center"> 
+</p> -->
+<!-- <p align="center"> 
   <img src="API/2.png" alt="smbots" width="70%" height="70%">
-</p>
+</p> -->
 
 <p align="center"> 
   <img src="API/15.png" alt="smbots" width="70%" height="70%">
