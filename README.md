@@ -3,7 +3,13 @@
 </p>
 <h1 align="center">
 API-Gateways-Hackathon Submission</h1>
-<h3 align="center"> A service that accepts National Service and Internship  applicant's CV and ID documents then uses Computer Vision with NLP cognitive models to extract and carry out the application process on their behalf.The backend service implements Robotic Process Automation to manage application stage processes,notify applicants and programme Information.These enable the service to process information in near real-time thus making it easier to provide high Quality analytics information for program managers,researchers and program strategists</h3>  
+<h3 align="center"> 
+Various services across Government have their own APIs, and there is no API gateway that routes the client requests to the appropriate services.
+
+Secondly, there has been limitations on the engagement of the developer community, innovators, and researchers. These have resulted in them not being able to discover, explore, test, register to access APIs and data sets that are free to use, reuse and redistribute. On the same note, there is no provision for IoT devices to deposit information in the centralized storage for subsequent retrieval.
+Additionally, there is no centralized management of user profiles across Government services resulting in the same user having multiple profiles within government.
+Therefore a best in class api gateway will be built to ensure that the security, scalability and decentralisation problems are neutralised. 
+</h3>  
 
 </br>
 <p align="center"> 
