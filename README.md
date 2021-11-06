@@ -62,36 +62,6 @@ The stack used to build this project:
 
 
 
-
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-
-<!-- analytics-->
-<h2 id="demo"> 📋: Demo</h2>
-<p> 
-  Analytics Dashboards
-
-<p align="center">
-</p>
-
-
- _analytics interaction Video. Please refer to the [Link](https://youtu.be/P6mmCRdlVXo)_ 
- 
-  <center>
-  <table>
-    <tr>
-      <td><a href="images/1.png"><img width="400" height="300" alt="chdemko" src="images/d1.png"></a></td>
-      <td><a href="images/2.png"><img width="400" height="300"  alt="chendaniely" src="images/d2.png"></a></td>
-    </tr>
- 
-  </table>
-</center>
-
- 
-</p>
-
-
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
