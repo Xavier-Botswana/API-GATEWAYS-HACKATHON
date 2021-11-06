@@ -123,9 +123,9 @@ _Developer Documentation. Please refer to the [Link](https://documenter.getpostm
 <h2 id="tut"> :computer: How to get Started </h2>
 
 1. Fork this repository
-`https://github.com/Xavier-Botswana/internshiphack.git`
+`https://github.com/Xavier-Botswana/API-GATEWAYS-HACKATHON.git`
 2. Clone your fork down to your local machine
-`git clone https://github.com/YOUR-NAME/internshiphack.git`
+`git clone https://github.com/YOUR-NAME/API-GATEWAYS-HACKATHON.git`
 get into the directory
 `cd internshiphack`
 3. Create a branch
