@@ -128,10 +128,10 @@ The stack used to build this project:
 <!-- analytics-->
 <h2 id="doc"> 📋: Demo  </h2>
 
-_Demonstration . Please refer to the [Link](https://youtu.be/TU-ylUORo4c)_
+_Architecture Demonstration . Please refer to the [Link](https://youtu.be/TU-ylUORo4c)_
 
 <p> 
-  Developer Documentation
+  API Architecture
   
 <p align="center"> 
   <img src="API/1.png" alt="smbots" width="70%" height="70%">
