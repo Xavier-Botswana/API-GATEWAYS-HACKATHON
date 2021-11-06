@@ -164,14 +164,14 @@ _Developer Documentation. Please refer to the [Link](https://documenter.getpostm
   Developer Documentation
   
 <p align="center"> 
-  <img src="images/1.png" alt="smbots" width="70%" height="70%">
+  <img src="API/1.png" alt="smbots" width="70%" height="70%">
 </p>
 <p align="center"> 
-  <img src="images/2.png" alt="smbots" width="70%" height="70%">
+  <img src="API/2.png" alt="smbots" width="70%" height="70%">
 </p>
 
 <p align="center"> 
-  <img src="images/15.png" alt="smbots" width="70%" height="70%">
+  <img src="API/15.png" alt="smbots" width="70%" height="70%">
 </p>
 
 
