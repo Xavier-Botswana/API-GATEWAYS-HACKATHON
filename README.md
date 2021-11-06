@@ -25,6 +25,7 @@ Therefore a best in class api gateway will be built to ensure that the security,
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#problem-statement"> ➤ Problem Statement</a></li>
+     <li><a href="#research"> ➤ Research</a></li>
     <li><a href="#stack"> ➤ Stack</a></li>
     <li><a href="#demo"> ➤ Demo (API Creation and Tests)</a></li>
     <li><a href="#doc"> ➤ API/Developer Docummentation</a></li>
@@ -57,7 +58,7 @@ Therefore a best in class api gateway will be built to ensure that the security,
 
 
 <!-- analytics-->
-<h2 id="doc"> 📋: Research Findings</h2>
+<h2 id="research"> 📋: Research Findings</h2>
 
 <!-- _Developer Documentation. Please refer to the [Link](https://documenter.getpostman.com/view/12221940/UVC2GTyP)_ -->
 
